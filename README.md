@@ -31,7 +31,7 @@
 - **서버 / 컨테이너**: Tomcat  
 - **웹 리소스**: HTML, CSS, JavaScript  
 - **MVC 구조**: `webapp/` 디렉토리에 JSP 및 정적 파일 배치  
-- **데이터베이스**: (현재는 명시 안 되어 있음) — MySQL, PostgreSQL 또는 SQLite 등 연동 가능  
+- **데이터베이스**: MySQL 연동 가능
 - **배포**: Tomcat 서버 환경에서 실행
 
 Traditional_Korean_Sweets/
