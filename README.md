@@ -35,11 +35,17 @@
 - **배포**: Tomcat 서버 환경에서 실행
 
 Traditional_Korean_Sweets/
+
 ├── oneul/
+
 │ └── src/
+
 │ └── main/
+
 │ └── webapp/ # JSP, HTML, CSS, JS 등
+
 ├── Servers/ # 로컬 Tomcat 설정 관련
+
 └── README.md
 
 리포지토리 구조 예시:
