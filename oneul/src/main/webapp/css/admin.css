@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* 공지사항 관리 테이블 스타일 */
+.admin-table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+.admin-table th, .admin-table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.admin-table th {
+    background-color: #8B5A2B;
+    color: white;
+}
+
+.admin-table td a {
+    color: #8B5A2B;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.admin-table td a:hover {
+    color: #ffdd99;
+}
+
+/* 관리 페이지 타이틀 */
+.admin-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.admin-add-button {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.admin-add-button button {
+    background-color: #8B5A2B;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.admin-add-button button:hover {
+    background-color: #ffdd99;
+}
